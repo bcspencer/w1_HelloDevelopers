@@ -1,0 +1,11 @@
+C:\Users\BenSpencer\dev\lessons\week1\HelloDevelopers\bin\Debug\netcoreapp3.0\HelloDevelopers.exe
+C:\Users\BenSpencer\dev\lessons\week1\HelloDevelopers\bin\Debug\netcoreapp3.0\HelloDevelopers.deps.json
+C:\Users\BenSpencer\dev\lessons\week1\HelloDevelopers\bin\Debug\netcoreapp3.0\HelloDevelopers.runtimeconfig.json
+C:\Users\BenSpencer\dev\lessons\week1\HelloDevelopers\bin\Debug\netcoreapp3.0\HelloDevelopers.runtimeconfig.dev.json
+C:\Users\BenSpencer\dev\lessons\week1\HelloDevelopers\bin\Debug\netcoreapp3.0\HelloDevelopers.dll
+C:\Users\BenSpencer\dev\lessons\week1\HelloDevelopers\bin\Debug\netcoreapp3.0\HelloDevelopers.pdb
+C:\Users\BenSpencer\dev\lessons\week1\HelloDevelopers\obj\Debug\netcoreapp3.0\HelloDevelopers.csprojAssemblyReference.cache
+C:\Users\BenSpencer\dev\lessons\week1\HelloDevelopers\obj\Debug\netcoreapp3.0\HelloDevelopers.AssemblyInfoInputs.cache
+C:\Users\BenSpencer\dev\lessons\week1\HelloDevelopers\obj\Debug\netcoreapp3.0\HelloDevelopers.AssemblyInfo.cs
+C:\Users\BenSpencer\dev\lessons\week1\HelloDevelopers\obj\Debug\netcoreapp3.0\HelloDevelopers.dll
+C:\Users\BenSpencer\dev\lessons\week1\HelloDevelopers\obj\Debug\netcoreapp3.0\HelloDevelopers.pdb
